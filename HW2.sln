@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2", "HW2\HW2.csproj", "{295AD934-417D-462F-9765-80885EF2CB8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1_Radius_Square", "HW2\Task1_Radius_Square.csproj", "{295AD934-417D-462F-9765-80885EF2CB8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_Perimeter_Square", "Task2_Perimeter_Square\Task2_Perimeter_Square.csproj", "{6AD0F6A6-3EE2-410E-A50B-8CEA7BF041AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_Square_Triangle", "Task3_Square_Triangle\Task3_Square_Triangle.csproj", "{66523738-DED3-4174-BBE2-691DE020CFD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{295AD934-417D-462F-9765-80885EF2CB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{295AD934-417D-462F-9765-80885EF2CB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{295AD934-417D-462F-9765-80885EF2CB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD0F6A6-3EE2-410E-A50B-8CEA7BF041AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD0F6A6-3EE2-410E-A50B-8CEA7BF041AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD0F6A6-3EE2-410E-A50B-8CEA7BF041AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD0F6A6-3EE2-410E-A50B-8CEA7BF041AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66523738-DED3-4174-BBE2-691DE020CFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66523738-DED3-4174-BBE2-691DE020CFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66523738-DED3-4174-BBE2-691DE020CFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66523738-DED3-4174-BBE2-691DE020CFD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
